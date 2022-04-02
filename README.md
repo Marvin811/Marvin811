@@ -18,6 +18,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="icons/webpack.png" /></a>
 <a href="https://www.figma.com/login/" title="figma"><img src="icons/figma.png" /></a>
+<a href="https://ru.reactjs.org/" title="react"><img src="icons/react.png" /></a>
 
 
 ## 📫 Как со мной связаться: 
