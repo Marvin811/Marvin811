@@ -19,6 +19,8 @@
 <a href="https://webpack.js.org/" title="Webpack"><img src="icons/webpack.png" /></a>
 <a href="https://www.figma.com/login/" title="figma"><img src="icons/figma.png" /></a>
 <a href="https://ru.reactjs.org/" title="react"><img src="icons/react.png" /></a>
+<a href="https://nodejs.org/ru/" title="node.js"><img src="icons/nodejs.png" /></a>
+<a href="https://www.mongodb.com/try/download/community" title="mongodb"><img src="icons/mongodb.png" /></a>
 
 
 ## 📫 Как со мной связаться: 
