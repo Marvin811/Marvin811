@@ -33,3 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin811&langs_count=8&theme=tokyonight&style=centerme)](https://github.com/Marvin811/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/Marvin811) 
