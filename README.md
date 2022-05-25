@@ -21,7 +21,8 @@
 <a href="https://ru.reactjs.org/" title="react"><img src="icons/react.png" /></a>
 <a href="https://nodejs.org/ru/" title="node.js"><img src="icons/nodejs.png" /></a>
 <a href="https://www.mongodb.com/try/download/community" title="mongodb"><img src="icons/mongodb.png" /></a>
-
+## Codewars:
+![Profile views](https://www.codewars.com/users/Marvin811/badges/large)
 
 ## 📫 Как со мной связаться: 
 <a href="##" title="mail"><img src="icons/mail.png" width="30" height="30" /></a> egorlukin03@icloud.com
@@ -34,3 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin811&langs_count=8&theme=tokyonight&style=centerme)](https://github.com/Marvin811/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Marvin811) 
+
